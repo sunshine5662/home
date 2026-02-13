@@ -1,3 +1,1 @@
-0.0.0.0 yastatic.net
-0.0.0.0 yastatic.ru
-0.0.0.0 yandex.ru
+0.0.0.0 litnet.com
